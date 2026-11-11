@@ -1,0 +1,4 @@
+labels:
+  - name: postmortem
+    color: 0e8a16
+    description: CI postmortem demo tracking
