@@ -1,2 +1,3 @@
-# ci-postmortem-demo
-Sandbox for onboarding CI postmortem demo — intentionally failing workflow
+# CI Postmortem Demo
+
+Sandbox repository for the onboarding CI postmortem demo.
